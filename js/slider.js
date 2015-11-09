@@ -7,5 +7,5 @@
                 .fadeIn('slow')
                 .end()
                 .appendTo('.slideshow');
-        }, 4000);
+        }, 3500);
     });
